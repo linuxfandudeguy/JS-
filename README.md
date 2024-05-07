@@ -65,7 +65,7 @@ Fetches information about the user's device and network.
 
 ## Usage
 
-To use any of these functions, simply include the provided source code in your JavaScript file and call the desired function with appropriate parameters.
+To use any of these functions, simply include the provided code on the website in your JavaScript file and call the desired function with appropriate parameters.
 
 ## License
 
